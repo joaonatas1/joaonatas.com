@@ -1,6 +1,3 @@
-http//www.joaonatas.com
-# joaonatas.com
-
 <!DOCTYPE html>
 <html lang="en-gb" dir="ltr">
 
